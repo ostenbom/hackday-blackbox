@@ -1,0 +1,5 @@
+---
+applications:
+- name: hackday-blackbox
+  memory: 1G
+  command: python application.py
